@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="rss.css" ?>
+<rss version="2.0">
+<channel>
+  <title>Damaj301Damaj's Personal RSS feed</title>
+  <link>https://Damaj301damaj-lol.github.io/RSS-feed/</link>
+  <description>Personal feed of Damaj301damaj, contains variety of topics, depends on what i feel like to, proudly written in vim/busybox vi on multiple hosts</description>
+  <item>
+    <title>First post</title>
+    <link>https://Damaj301damaj-lol.github.io/RSS-feed/html/00000.html</link>
+    <guid>0000000000</guid>
+    <pubDate>2022-06-9</pubDate>
+    <description>
+	    <p>Hello!, well this is the first post, still experimenting, i hope you will enjoy some content soon :-D.</p>
+   </description>
+  </item>
+</channel>
+</rss>
