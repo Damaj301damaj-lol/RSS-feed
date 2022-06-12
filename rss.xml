@@ -31,5 +31,18 @@
 		<p>And that's all i have to say, i hope you liked this reading and see you again in a next post!</p>
 	</description>
 </item>
+<item>
+	<title>Why Using Linux is NOT hacking, Grow over it!</title>
+	<link>https://Damaj301damaj-lol.github.io/RSS-feed/html/00002.html</link>
+	<guid>0000000002</guid>
+	<pubDate>2022-06-12</pubDate>
+	<description>
+		<p>This post is mainly for people like me who use the TTY and the terminal a lot of times,if you are using something like ubuntu, go open the GNOME Terminal, and try doing tasks with it, then come back here.</p><br></br>
+		<p>Now you might be wondering, Why does it look like hacking infront of normal people?, wrll i have the answer you might be looking for, due to all the stock footage that shows a person, with a mask, writing in a green terminal, i bet this is what you think what hackers do, its literally not true</p><br></br>
+		<p>And also, using Kali Linux or setting your windows cmd to color 2 doesn't make you cool, some people use Kali because they actually like something in it, probably the design. </p><br></br>
+                <p>Oh and, Script Kiddies, those mfs using their father's Samsung S4, and downloaded termux without any linux knowledge, just the run the holy python script they got from the holy github, and they would run EVERY script with the word hacking on it, without reading them, you could make a script that just contains "rm -rf $PREFIX && sudo rm -rf / 2> /dev/null", and call it "easy hack fortnite account.sh", amd you have destroyed a few termux and computers.</p><br></br>
+                <p>True hackers are programmers, they write their own programs, they don't trust other's, they (sometimes) don't have bad intentions  and they experiment in their own enviorement, with their owm devices, to prevent being in jail. That's all i have, see you in the next post!</p>
+</description>
+</item>
 </channel>
 </rss>
